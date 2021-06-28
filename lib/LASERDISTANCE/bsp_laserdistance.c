@@ -1,4 +1,4 @@
-#include "./LASERDISTANCE/bsp_laserdistance.h"
+#include "bsp_laserdistance.h"
 #include "stdio.h"
 #include "stdlib.h"
 

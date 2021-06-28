@@ -1,5 +1,5 @@
 
-#include "SERVO/bsp_servo.h"
+#include "bsp_servo.h"
 
 extern TIM_HandleTypeDef htim3;
 

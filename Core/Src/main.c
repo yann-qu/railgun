@@ -31,9 +31,9 @@
 #include <string.h>
 #include <math.h>
 
-#include "SERVO/bsp_servo.h"
-#include "MATRIXKEY/bsp_matrixkey.h"
-#include "LASERDISTANCE/bsp_laserdistance.h"
+#include "bsp_servo.h"
+#include "bsp_matrixkey.h"
+#include "bsp_laserdistance.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
