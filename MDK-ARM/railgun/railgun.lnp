@@ -1,7 +1,5 @@
 --cpu Cortex-M3
 "railgun\startup_stm32f103xb.o"
-"railgun\bsp_servo.o"
-"railgun\bsp_matrixkey.o"
 "railgun\main.o"
 "railgun\gpio.o"
 "railgun\dma.o"
@@ -10,6 +8,8 @@
 "railgun\stm32f1xx_it.o"
 "railgun\stm32f1xx_hal_msp.o"
 "railgun\bsp_laserdistance.o"
+"railgun\bsp_matrixkey.o"
+"railgun\bsp_servo.o"
 "railgun\stm32f1xx_hal_gpio_ex.o"
 "railgun\stm32f1xx_hal_tim.o"
 "railgun\stm32f1xx_hal_tim_ex.o"

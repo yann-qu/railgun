@@ -1,3 +1,6 @@
 # 编译中间文件
-MDK-ARM/railgun/*.d
-MDK-ARM/railgun/*.o
+*.d
+*.o
+
+.pio/
+.vscode/
